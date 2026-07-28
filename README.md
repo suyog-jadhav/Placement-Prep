@@ -69,5 +69,9 @@ https://takeuforward.org/system-design/complete-system-design-roadmap-with-video
 
 https://github.com/gibsjose/cpp-cheat-sheet/tree/master
 
+## hynts
+
+https://hynts.in
+
 ---
 
